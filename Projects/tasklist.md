@@ -2,6 +2,8 @@ Tasks
 ==============
 
 **High Priority**
+* bs forecast
+    1. party splits & frequency
 * R&A's Budget
 * Balance Sheet Budget
 * ~~Resequence sales revisions~~
